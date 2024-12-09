@@ -8,7 +8,7 @@ layout: single
 sidebar:
   nav: "docs"
 ---
-# Telescopes of interest
+<h1> Telescopes of interest </h1>
 - [Hubble Space telescope](https://science.nasa.gov/mission/hubble/)
 - [JWST](https://science.nasa.gov/mission/webb/)
 - [Sloan Digital Sky Survey](https://www.sdss.org/)

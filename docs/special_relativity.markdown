@@ -5,7 +5,7 @@ layout: single
 sidebar:
   nav: "docs"
 ---
-# Special Relativity
+<h1> Special Relativity </h1>
 
 Important equations:
 
