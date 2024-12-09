@@ -33,7 +33,7 @@ repository               : # "alisonands/physics-resources" , in general "userna
 email: alison.ands@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am awesome. This is awesomesauce.
-baseurl: "\physics-resources" #, or whatever you decide your github repo to be named
+baseurl: "/physics-resources" #, or whatever you decide your github repo to be named
 url: "alisonands.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
 # github_username:  alisonands  
