@@ -1,0 +1,30 @@
+main:
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    target: _blank #opens in new page
+  # - title: "Posts"
+  #   url: /year-archive/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
+  # - title: "Pages"
+  #   url: /page-archive/
+  - title: "Collections"
+    url: /collection-archive/
+  - title: "External Link"
+    url: https://alisonands.github.io
+    target: _blank 
+  
+docs:
+  - title: "Physics Resources"
+    children: 
+    - title: "Telescopes of interest"
+      url: "/docs/TOI/"
+    - title: "Papers of interest"
+      url: "/docs/papers/"
+  - title: "Notes in Physics"
+    children:
+      - title: "Special Relativity"
+        url: "/docs/special_relativity/"
+      - title: 
