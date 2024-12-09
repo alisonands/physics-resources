@@ -26,15 +26,15 @@ name: AA
 subtitle                 : Subtitle
 # masthead_title           : " "
 description              : "A site dedicated to all the helpful physics resources."
-# url                      : # "https://alisonands.github.io/physics-resources"
+url                      : /physics-resources
 teaser                   : /images/img_1.png
 logo                     : /images/blog.jpg
 repository               : # "alisonands/physics-resources" , in general "username/repo-name"
 email: alison.ands@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am awesome. This is awesomesauce.
-baseurl: # "\physics-resources", or whatever you decide your github repo to be named
-url: "/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "\physics-resources" #, or whatever you decide your github repo to be named
+url: "alisonands.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
 # github_username:  alisonands  
 
